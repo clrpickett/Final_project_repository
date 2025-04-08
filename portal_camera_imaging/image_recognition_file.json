@@ -1,0 +1,132 @@
+{
+ "images": [
+  {
+   "file": "Screenshot (101).png",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.907,
+     "bbox": [
+      0.4004,
+      0.5364,
+      0.06808,
+      0.2526
+     ]
+    }
+   ]
+  },
+  {
+   "file": "Screenshot (135).png",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.0105,
+     "bbox": [
+      0.4795,
+      0.3411,
+      0.09224,
+      0.1354
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.0171,
+     "bbox": [
+      0.7057,
+      0.371,
+      0.09736,
+      0.1302
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.303,
+     "bbox": [
+      0.7071,
+      0.371,
+      0.0344,
+      0.07682
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.93,
+     "bbox": [
+      0.7174,
+      0.2005,
+      0.2188,
+      0.4908
+     ]
+    }
+   ]
+  },
+  {
+   "file": "Screenshot (139).png",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.954,
+     "bbox": [
+      0.08052,
+      0.3098,
+      0.1639,
+      0.2382
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.961,
+     "bbox": [
+      0.2408,
+      0.2486,
+      0.09956,
+      0.3164
+     ]
+    }
+   ]
+  },
+  {
+   "file": "Screenshot (91).png",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.892,
+     "bbox": [
+      0.5871,
+      0.6132,
+      0.1625,
+      0.1666
+     ]
+    }
+   ]
+  },
+  {
+   "file": "graphs/pie-charts/distribution-detections.png",
+   "detections": []
+  },
+  {
+   "file": "graphs/pie-charts/distribution-files.png",
+   "detections": []
+  }
+ ],
+ "detection_categories": {
+  "1": "animal",
+  "2": "person",
+  "3": "vehicle"
+ },
+ "info": {
+  "detection_completion_time": "2025-04-01 00:28:10",
+  "format_version": "1.4",
+  "detector": "md_v5a.0.0.pt",
+  "detector_metadata": {
+   "megadetector_version": "v5a.0.0",
+   "typical_detection_threshold": 0.2,
+   "conservative_detection_threshold": 0.05
+  },
+  "addaxai_metadata": {
+   "version": "6.06",
+   "custom_model": false,
+   "custom_model_info": {}
+  }
+ }
+}
