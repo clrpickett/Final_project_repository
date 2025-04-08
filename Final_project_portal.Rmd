@@ -1,0 +1,16 @@
+---
+title: "Final Project"
+author: "Claire Pickett"
+date: "`r Sys.Date()`"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Installing Portal Data
+
+```{r}
+install.packages("portalr")
+```
